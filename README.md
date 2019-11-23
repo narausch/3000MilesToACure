@@ -1,2 +1,2 @@
 # 3000MilesToACure
-Research into Brain Cancer Funding
+Research into Brain Cancer Research Funding
