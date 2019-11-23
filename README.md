@@ -14,6 +14,24 @@ It is possible, with proper funding, to change the outcome for those diagnosed w
 To learn more about their mission
 [3000 Miles to a Cure](https://3000milestoacure.com/about/)
 
-# Research background
+## Purpose for this Research
+
+**3000 Miles to a Cure** is exploring new opportunities for research investments.  The organization is interested in funding new and innovative areas where their fundraising dollars may have the greatest effect.  This paper describes some potential opportunities that the organization may want to explore as part of a comprehensive and fiscally responsible investment strategy.    
+
+## Clinical Trials by Area
+The US National Library of Medicine maintains a list of clinical trials for all types of illnesses.  You can filter the studies by type of illness, area of research, and other interesting aspects of the studies.  
+
+The map below shows each state in the US that are sponsoring clinical trials related to brain cancer research.  This list is filtered to those trials that are in an active state and recruiting patients.  There are 631 available studies.  The map can be explored interactively at [this link](https://clinicaltrials.gov/ct2/results/map?cond=&term=brain+cancer&cntry=&state=&city=&dist=&map=NA%3AUS&recrs=a&recrs=f).    
+![clinical trial map](clinicaltrials.png "Clinical Trials")
+
+There are several studies in this list that might be of particular interest:
+- [Ketogenic Diet in Children With Malignant or Recurrent/Refractory Brain Tumor.](https://clinicaltrials.gov/ct2/show/NCT03328858?term=brain+cancer&recrs=abdf&draw=2&rank=7)
+- 
+
+## References ##
+Davis, C. Stoppler, M. (2019, Nov 23). Brain Cancer. Retrieved from emedicinehealth. [What are the various types and grades of brain cancer.](https://www.emedicinehealth.com/brain_cancer/article_em.htm#what_are_the_various_types_and_grades_of_brain_cancer)
+
+US National Library of Medicine Clinical Trials Registry. Study start date: 2017, Nov, 1. Ketogenic Diet in Children With Malignant or Recurrent/Refractory Brain Tumor. Retrieved from [Ketogenic Diet in Children With Malignant or Recurrent/Refractory Brain Tumor.](https://clinicaltrials.gov/ct2/show/NCT03328858?term=brain+cancer&recrs=abdf&draw=2&rank=7)
+
 
 
