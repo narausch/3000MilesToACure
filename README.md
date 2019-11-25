@@ -7,34 +7,33 @@ In 2018 an estimated 77,670 cases of brain tumors will be diagnosed. Approximate
 
 ## Purpose for this Research
 
-**3000 Miles to a Cure** is exploring new opportunities for research investments.  The organization is interested in funding new and innovative areas where their fundraising dollars may have the greatest effect.  This paper describes some potential opportunities that the organization may want to explore as part of their investment strategy.    
+The non-profit organization **3000 Miles to a Cure** is exploring new opportunities for investing research dollars.  The organization is interested in funding innovative areas where their fundraising dollars may have the greatest impact.  This paper describes some potential opportunities that the organization may want to explore.     
 
 ## The Important Role of Private Funding
 
-There are a number of organizations that fund brain cancer research.  There are also opportunities in specific locations, both in the US and around the world. 
-
-One challenge with funding for brain cancer research in the US is that less than 10% of proposed grants are actually accepted for funding through federal dollars.  In addition, to be eligible to apply for grants, an organization must first collect initial research data to show project viability. Private philanthropy is important in order to support startup research to make subsequent government funding possible. (Rockey, 2015) 
-
+One challenge with brain cancer research funding in the US is that less than 10% of proposed grants are accepted and funded with federal dollars.  In addition, to be eligible to apply for grants, an organization must first collect initial research data to show project viability. Private philanthropy therefore is important in order to support startup research to make subsequent government funding possible. (Rockey, 2015) 
 
 ## Opportunity for Investing in Foundations that Support Clinical Trials 
- In the US, one funding opportunity is to support active clinical trials. A clinical trial is a research program conducted with patients to evaluate a new medical treatment, drug, or device. The purpose of clinical trials is to find new and improved methods of treating, preventing, screening for, and diagnosing different diseases. 
+ One funding opportunity is to support organizations that fund clinical trials. A clinical trial is a research program conducted with patients to evaluate a new medical treatment. The purpose of clinical trials is to find new and improved methods of treating, preventing, screening for, and diagnosing different diseases. 
 
-In cancer research, much of the money used in active clinical trials is funded through by the National Cancer Institute.  Other sources of funding include clinical centers, cancer cooperative groups, pharmaceutical companies, and non-profit organizations.  Non-profit organizations that are interested in funding a specific area of research could donate to an organization that is sponsoring an active clinical trial.  
+In cancer research, much of the money used in clinical trials is funded by the National Cancer Institute.  Other sources of funding include non-profit foundations.  **3000 Miles to a Cure** could consider donating to one of these organizations.  
 
-The US National Library of Medicine maintains a list of active clinical trials.  The map below shows each state in the US that are sponsoring active clinical trials related to brain cancer research.  There are 631 available studies.  The map can be explored interactively at [this link](https://clinicaltrials.gov/ct2/results/map?cond=&term=brain+cancer&cntry=&state=&city=&dist=&map=NA%3AUS&recrs=a&recrs=f).    
+The US National Library of Medicine maintains a list of active clinical trials and their associated funding sources.  The map below shows each state in the US that are sponsoring active clinical trials related to brain cancer research.  There are 631 available studies.  The map can be explored interactively at [this link](https://clinicaltrials.gov/ct2/results/map?cond=&term=brain+cancer&cntry=&state=&city=&dist=&map=NA%3AUS&recrs=a&recrs=f).    
 ![clinical trial map](clinicaltrials.png "Clinical Trials")
 
 These active trials are vetted by medical experts, and so would constitute good donation targets.  I filtered this list to those that have some non-government funding, in order to explore the organizations that are involved.  All of these organizations accept charitable donations, and note on their website that they would work with  donors to target research dollars to specific areas of donor interest.  
 
 - [Pediatric Brain Tumor Foundation](http://www.curethekids.org/)  
-  *   Founded in 1991, they believe that they are one of the worlds largest non-governmental sources of funding for childhood brain tumor research 
+  *   Founded in 1991, they state that they are one of the worlds largest non-governmental sources of funding for childhood brain tumor research 
   * [Charity Navigator site](https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=8067) - Score - Good - 89.05/100 
   *  Revenue in 2018 approximately $10M
 - St Jude Children's Research Hospital
 - The Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins University
-- St Baldrick's Foundation, which is the largest funder of childhood cancer research aside from the US goverment.  
+- St Baldrick's Foundation, which is another large funder of childhood cancer research.  
+- [National Pediatric Cancer Foundation](https://nationalpcf.org/) 
+  * Revenue raised $23M
 
-There are several studies in this list that could be of particular interest:
+There are several studies in this list that looked to be of particular interest to **3000 Miles to a Cure**:
 - [Ketogenic Diet in Children With Malignant or Recurrent/Refractory Brain Tumor.](https://clinicaltrials.gov/ct2/show/NCT03328858?term=brain+cancer&recrs=abdf&draw=2&rank=7)
 
 
